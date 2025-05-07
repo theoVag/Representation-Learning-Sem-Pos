@@ -1,4 +1,4 @@
-# Project Title
+# Representation learning in PET scans enhanced by semantic and 3D position specific characteristics
 
 **“T. P. Vagenas, M. Vakalopoulou, C. Sachpekidis, A. Dimitrakopoulou-Strauss and G. K. Matsopoulos, "Representation learning in PET scans enhanced by semantic and 3D position specific characteristics," in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2025.3566996.”**  
 🔗 [Link to paper](https://ieeexplore.ieee.org/document/10985918)
