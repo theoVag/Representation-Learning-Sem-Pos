@@ -5,12 +5,6 @@
 
 ---
 
-## 📖 Abstract
-
-*(Copy-paste or paraphrase the abstract from your paper.)*
-
----
-
 ## 🗂️ Repository Structure
 
 ```
