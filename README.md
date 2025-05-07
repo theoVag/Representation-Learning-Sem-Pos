@@ -42,7 +42,7 @@ Representation learning methods that discover task and/or data-specific characte
 
 ---
 
-## 🐍 Creating the Environment
+## Creating the Environment
 
 We provide Conda-based setup via `environment.yml`.
 
@@ -51,7 +51,7 @@ conda env create -f environment.yml
 conda activate your_env_name
 ```
 
-## 📦 Data Preparation & Simulation
+## Data Preparation & Simulation
 
 All data‐prep and dummy‐data scripts live under `src/data_utils/`.
 
@@ -85,7 +85,7 @@ Adjust the `MAIN_PATH` variable in your config files (`configs/`) to point at th
 
 ---
 
-## 🚀 Running the Main Models
+## Running the Main Models
 
 From the `src/` directory:
 
