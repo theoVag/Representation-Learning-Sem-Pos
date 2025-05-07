@@ -95,7 +95,7 @@ From the `src/` directory:
 python train_representation_learning.py     --model_name resnet18     --config configs/config.py
 ```
 
-### 3. Classification with Positional Encoding
+### 2. Classification with Positional Encoding
 
 ```bash
 python train_classification_pos.py     --backbone_name resnet18     --config configs/config_classification.py
